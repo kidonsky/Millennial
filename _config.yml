@@ -1,7 +1,7 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:            5
+paginate:            6
 
 # Build settings
 markdown:            kramdown
@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Les gourmandises de poilux"
-description:	       "a Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+description:	       "un site pour gourmands, mais sans sucre ni beurre"
+author:              "Poilux"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
