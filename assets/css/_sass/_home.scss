@@ -1,3 +1,11 @@
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 525px));
+  grid-gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
 .featured-posts {
   height: 400px;
   margin: 5px 10px 10px;
