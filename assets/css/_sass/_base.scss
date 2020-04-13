@@ -7,6 +7,7 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+  text-align: justify;
 }
 
 /*
@@ -19,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+  text-align : center;
 }
 
 h1 {
@@ -40,6 +42,7 @@ h4, h5, h6 {
 /* Body */
 body {
   font-family: $base-font-family;
+  background-image: url("../img/texture.jpg");
 }
 body img {
     align: middle;
