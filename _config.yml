@@ -18,7 +18,13 @@ title:		           "Les gourmandises de poilux"
 description:	       "un site pour gourmands, mais sans sucre ni beurre"
 author:              "Poilux"
 
+# seo informations
+url: https://gourmandisesdepoilux.thoh.fr
+social:
+  name: Gourmandises de poilux
+  links: https://www.instagram.com/gourmandises_healthy_de_poilux
+lang: fr_FR
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
-
 #  path: rss-feed.xml
